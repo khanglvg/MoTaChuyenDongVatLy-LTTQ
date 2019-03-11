@@ -1,0 +1,15 @@
+C:\Users\VanNhin\Downloads\LTTQ\LTTQ\bin\Debug\LTTQ.exe
+C:\Users\VanNhin\Downloads\LTTQ\LTTQ\bin\Debug\LTTQ.pdb
+C:\Users\VanNhin\Downloads\LTTQ\LTTQ\obj\x86\Debug\LTTQ.MainForm.resources
+C:\Users\VanNhin\Downloads\LTTQ\LTTQ\obj\x86\Debug\LTTQ.Properties.Resources.resources
+C:\Users\VanNhin\Downloads\LTTQ\LTTQ\obj\x86\Debug\LTTQv2.csproj.GenerateResource.Cache
+C:\Users\VanNhin\Downloads\LTTQ\LTTQ\obj\x86\Debug\LTTQ.exe
+C:\Users\VanNhin\Downloads\LTTQ\LTTQ\obj\x86\Debug\LTTQ.pdb
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\obj\x86\Debug\LTTQ.exe
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\obj\x86\Debug\LTTQ.pdb
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\obj\x86\Debug\LTTQv2.csprojResolveAssemblyReference.cache
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\obj\x86\Debug\LTTQ.MainForm.resources
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\obj\x86\Debug\LTTQ.Properties.Resources.resources
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\obj\x86\Debug\LTTQv2.csproj.GenerateResource.Cache
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\bin\Debug\LTTQ.exe
+C:\Users\VanNhin\Documents\Visual Studio 2010\Projects\LTTQ\LTTQ\bin\Debug\LTTQ.pdb
